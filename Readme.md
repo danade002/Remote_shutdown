@@ -4,3 +4,5 @@ The slave program was written to launch the shutdown.bat file in the directory w
 
  
 Note: Do not type the command "shutdown" if you do not want to shutdown your system.
+
+Checking for Continous Integration
